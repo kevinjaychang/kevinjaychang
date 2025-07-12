@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevinjaychang
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning applied math at UCSB
-- 📫 How to reach me: kevin-chang.org
+- 📫 How to reach me: kevinjaychang2003@gmail.com
 
 <!---
 kevinjaychang/kevinjaychang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
