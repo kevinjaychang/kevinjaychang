@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kevinjaychang
-- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning applied math at UCSB
 - 📫 How to reach me: kevinjaychang2003@gmail.com
 
