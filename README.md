@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinjaychang
-- 🌱 I’m currently learning applied math at UCSB
+- 🌱 I’m currently learning CS at GeorgiaTech with emphasis on Systems. Prev Applied Math at UCSB
 - 📫 How to reach me: kevinjaychang2003@gmail.com
 
 <!---
